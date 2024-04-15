@@ -1,5 +1,5 @@
 # hello-world
-Getting my personal account up and running
+Getting my personal account up and running. Practicing git, setting up my machine.
 
 Once I have this account up and running I plan to start experimenting with various static documentation generators. 
 
